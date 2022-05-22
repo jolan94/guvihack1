@@ -1,0 +1,43 @@
+body {
+  background: white;
+}
+
+.brewdiv {
+  margin: 20px;
+  padding: 30px;
+  border-radius: 25px;
+  background-color: rgb(245, 242, 242);
+}
+
+.brewname {
+  font-size: 16;
+  font-weight: bold;
+}
+
+.brewtype {
+  font-size: 14;
+  font-weight: 600;
+  color: gray;
+}
+
+.brewaddress {
+  font-size: 14;
+  font-weight: 600;
+  color: rgb(87, 86, 86);
+}
+
+.brewsite {
+  font-size: 14;
+  font-weight: 600;
+  color: rgb(87, 86, 86);
+}
+
+.brewphone {
+  font-size: 14;
+  font-weight: 600;
+  color: rgb(87, 86, 86);
+}
+
+.btn{
+  text-align: center;
+}
